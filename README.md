@@ -12,6 +12,8 @@ Los pasos a seguir para poder subir archivos al Formulario se encuentra en el Pr
 
 ### ACERCA DEL CÓDIGO
 
+El formulario de Google Forms editable se puede encontrar en el siguiente [enlace](https://docs.google.com/forms/d/1RgMrx9P20KgGOHmxFv8k0MsSmWqaW5gZ4gN9EtTZ2wM/edit). Asimismo, el Google Spreadsheets destinado a poder almacenar la información y tener una tabla dinámica que haga el conteo respectivo de las respuestas se encuentra a continuación en el siguinete [enlace(https://docs.google.com/spreadsheets/d/1xSJu6RQFFaEmpC8VZmyTTtBJsXpxL_WKtK2Ueu4DjY4/edit#gid=1070187183)
+
 El código esta conformado por dos archivos con nombres Código.gs y setUp.gs que permitirán activar los triggers necesarios para que se realice la distribución de la información a las carpetas pertinentes. 
 
 ![image](https://github.com/DISENOINSTRUCCIONALFSAA/FORMATO_PARA_COMPARTIR_INFORMACION/assets/144281326/20c11df5-ec22-4251-9ef4-a3f4c1773c73)
